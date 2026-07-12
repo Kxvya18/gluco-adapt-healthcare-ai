@@ -1,0 +1,16 @@
+__pycache__/
+*.pyc
+*.pyo
+.DS_Store
+.env
+.venv/
+venv/
+env/
+*.log
+.pytest_cache/
+.mypy_cache/
+.ipynb_checkpoints/
+mysql-data/
+mysql-run/
+mysql-tmp/
+logs/
